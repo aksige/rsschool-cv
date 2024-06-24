@@ -2,7 +2,7 @@
 
 ### [Контакты для связи](https://t.me/aksige)
 
-## Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
+## It's time for change. This attempt is far from the first. All the time, something stopped. Time to change. Change yourself! Change your thinking!
 
 ### JavaScript; HTML; CSS; SCSS; 
 
@@ -15,8 +15,6 @@ document.addEventListener('contextmenu', function(ev){
 });
 ```
 
---------------
+### Basic knowledge of English for reading with a dictionary.
 
-------------------
-
-Basic knowledge of English for reading with a dictionary.
+> __«В командной работе хорошо то, что у вас всегда есть единомышленники»__, — **Маргарет Карти**
