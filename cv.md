@@ -17,4 +17,4 @@ document.addEventListener('contextmenu', function(ev){
 
 ### Basic knowledge of English for reading with a dictionary.
 
-> __«В командной работе хорошо то, что у вас всегда есть единомышленники»__, — **Маргарет Карти**
+> __«The nicest thing about teamwork is that you always have others on your side»__, — **Margaret Carty**
