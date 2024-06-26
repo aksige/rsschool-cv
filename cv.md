@@ -1,6 +1,6 @@
-# __**Yuri Raskin**__
+# __Yuri Raskin__
 
-### [Контакты для связи](https://t.me/aksige)
+### [Telegram](https://t.me/aksige)
 
 ## It's time for change. This attempt is far from the first. All the time, something stopped. Time to change. Change yourself! Change your thinking!
 
