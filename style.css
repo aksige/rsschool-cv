@@ -47,12 +47,13 @@
     isolation: isolate;
   }
 
+  /*
+   begin
+  */
+
   .nav {
     background-color: green;
   }
-
-  .brand-logo {
-}
 
 .brand-logo img {
     padding: 10px 0 30px 0;
